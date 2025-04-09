@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/7d564981-cb81-43e7-819a-25ffcfc5bd72" width=40% height=40%/>
+</p>
+
 # C - Sorting Algorithms & Big O
 
 Welcome to my project on sorting algorithms and time complexity, created as part of my training at Holberton School. This repository demonstrates my understanding of multiple sorting techniques, how to assess their efficiency using Big O notation, and how to choose the most suitable algorithm depending on the use case.
@@ -101,7 +105,7 @@ You can view the full project on my GitHub:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 [**f-qrm**](https://github.com/f-qrm)  
 [**P-Y74** ](https://github.com/P-Y74)  
