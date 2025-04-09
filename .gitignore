@@ -1,0 +1,41 @@
+.vscode/settings.json
+0-main.c
+binary_tree_print.c
+
+# Fichiers objets
+*.o
+
+# Fichiers exécutables
+a.out
+*.out
+*.exe
+*.bin
+
+# Fichiers de compilation précompilés
+*.gch
+
+# Fichiers de sauvegarde d'éditeurs
+*~
+*.swp
+*.swo
+.#*
+
+# Fichiers créés par Emacs
+*.elc
+
+# Fichiers créés par GCC lors de la compilation
+*.dSYM/
+*.stackdump
+
+# Dossiers de build si utilisés
+/build/
+/bin/
+/obj/
+
+# Archives
+*.tar
+*.gz
+*.zip
+
+# Logs (optionnel)
+*.log
