@@ -20,6 +20,8 @@ void swap(int arr[], int i, int j)
  * @array: The array to be partitioned
  * @low: The starting index of the partition
  * @high: The ending index of the partition
+ * @size: The size of the array
+ *
  * Return: The final position of the pivot
  */
 int lomuto(int array[], int low, int high, size_t size)
@@ -52,6 +54,7 @@ int lomuto(int array[], int low, int high, size_t size)
  * @array: The array to be sorted
  * @low: The starting index of the subarray
  * @high: The ending index of the subarray
+ * @size: The size of the array
  */
 void quick_sort_rec(int *array, int low, int high, size_t size)
 {
